@@ -1,3 +1,4 @@
+theme: minima
 title: @Artistan Designs + Engineering
 description: Bookmark this to keep an eye on my project updates!
 remote_theme: "jekyll/minima@1e8a445"
