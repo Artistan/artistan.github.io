@@ -8,10 +8,6 @@ email: webmaster@artistan.org
 
 twitter_username: artistan
 github_username:  artistan
-
-minima:
-  skin: solarized-dark
-
   
 # Build settings
 theme: minima
