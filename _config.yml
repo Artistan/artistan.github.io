@@ -1,41 +1,17 @@
-# https://github.com/dsutphin/bsidesroanoke.github.io
+# ASTRO >>> https://github.com/dsutphin/bsidesroanoke.github.io
 title: "@Artistan Designs + Engineering"
 description: Bookmark this to keep an eye on my project updates!
-email: webmaster@artistan.org
+theme: minima
 
 twitter_username: artistan
 github_username:  artistan
-  
-minima:
-  skin: dark
 
-# Build settings
-remote_theme: jekyll/minima@2863624
-plugins:
-  - jekyll-remote-theme
+# minima:
+#   skin: dark
+
+# # Build settings
+# remote_theme: jekyll/minima@2863624
+# plugins:
+#   - jekyll-remote-theme
 
 show_excerpts: true
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - .github
-  - .gitignore
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
