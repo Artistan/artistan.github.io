@@ -1,16 +1,18 @@
 # https://github.com/dsutphin/bsidesroanoke.github.io
-
-theme: minima
 title: "@Artistan Designs + Engineering"
 description: Bookmark this to keep an eye on my project updates!
-remote_theme: "jekyll/minima@1e8a445"
 email: webmaster@artistan.org
 
 twitter_username: artistan
 github_username:  artistan
   
+minima:
+  skin: dark
+
 # Build settings
-theme: minima
+remote_theme: jekyll/minima@2863624
+plugins:
+  - jekyll-remote-theme
 
 show_excerpts: true
 
