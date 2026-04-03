@@ -14,9 +14,8 @@ minima:
 
   
 # Build settings
-remote_theme: jekyll/minima@2863624
-plugins:
-  - jekyll-remote-theme
+theme: minima
+
 show_excerpts: true
 
 # Exclude from processing.
